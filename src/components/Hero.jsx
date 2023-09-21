@@ -16,7 +16,7 @@ const Hero = () => {
             <span className='orange_gradient'>OPENAI GPT-4</span>
         </h1>
         <h2 className='desc'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur qui eos eveniet omnis magni in quisquam suscipit nostrum blanditiis, dolore consequuntur beatae.
+        Revolutionize your reading. Our AI-powered website condenses articles, providing essential insights in seconds. Customize summaries, access on any device, and save for future reference. Say hello to smarter, more efficient reading with Sumz!
         </h2>
     </header>
   )
